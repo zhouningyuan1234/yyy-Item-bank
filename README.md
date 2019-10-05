@@ -15,7 +15,7 @@
 		<div>第2题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di2ti/"><span class="purple">前往</span></a></button></div>
 		<div>第3题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di3ti/"><span class="purple">前往</span></a></button></div>
 		<div>第4题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di4ti/"><span class="purple">前往</span></a></button></div>
-		<div>第5题:<button title="hello"><a href="https://zhouningyuan1234.github.io/d5ti/"><span class="purple">前往</span></a></button></div>
+		<div>第5题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di5ti/"><span class="purple">前往</span></a></button></div>
 		<div>第6题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di6ti/"><span class="purple">前往</span></a></button></div>
 		<div>第7题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di7ti/"><span class="purple">前往</span></a></button></div>
 		<div>第8题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di8ti/"><span class="purple">前往</span></a></button></div>
