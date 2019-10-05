@@ -11,9 +11,9 @@
 </head>
 <body>
 		<h1><center>题库</center></h1>
-		<div>第1题:<button title="hello"><a href="https://zhouningyuan1234.github.io/diyiti/"><span class="purple">前往</span></a></button></div>
-		<div>第2题:<button title="hello"><a href="https://zhouningyuan1234.github.io/dierti/"><span class="purple">前往</span></a></button></div>
-		<div>第3题:<button title="hello"><a href="https://zhouningyuan1234.github.io/disanti/"><span class="purple">前往</span></a></button></div>
+		<div>第1题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di1ti/"><span class="purple">前往</span></a></button></div>
+		<div>第2题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di2ti/"><span class="purple">前往</span></a></button></div>
+		<div>第3题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di3ti/"><span class="purple">前往</span></a></button></div>
 		<div>第4题:<button title="hello"><a href="https://zhouningyuan1234.github.io/disiti/"><span class="purple">前往</span></a></button></div>
 		<div>第5题:<button title="hello"><a href="https://zhouningyuan1234.github.io/diwuti/"><span class="purple">前往</span></a></button></div>
 		<div>第6题:<button title="hello"><a href="https://zhouningyuan1234.github.io/diliuti/"><span class="purple">前往</span></a></button></div>
