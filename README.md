@@ -21,6 +21,6 @@
 		<div>第8题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di8ti/"><span class="purple">前往</span></a></button></div>
 		<div>第9题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di9ti/"><span class="purple">前往</span></a></button></div>
 		<div>第10题:<button title="hello"><a href="https://zhouningyuan1234.github.io/di10ti/"><span class="purple">前往</span></a></button></div>
-		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
+		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Team-headquarters/"><span class="purple">返回</span></a></button></div>
 </body>
 </html>
